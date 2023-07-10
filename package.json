@@ -1,0 +1,10 @@
+{
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "start": "turbo run dev",
+    "test": "turbo run test --filter=ui"
+  }, 
+  "devDependencies": {
+    "turbo": "^1.10.7"
+  }
+}

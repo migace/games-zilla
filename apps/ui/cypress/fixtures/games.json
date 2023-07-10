@@ -1,0 +1,57 @@
+[
+  {
+    "id": 540,
+    "title": "Overwatch 2",
+    "thumbnail": "/g/540/thumbnail.jpg",
+    "shortDescription": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "Activision Blizzard",
+    "developer": "Blizzard Entertainment",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "id": 521,
+    "title": "Diablo Immortal",
+    "thumbnail": "/g/521/thumbnail.jpg",
+    "shortDescription": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+    "genre": "MMOARPG",
+    "platform": "PC (Windows)",
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "releaseDate": "2022-06-02"
+  },
+  {
+    "id": 517,
+    "title": "Lost Ark",
+    "thumbnail": "/g/517/thumbnail.jpg",
+    "shortDescription": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+    "genre": "ARPG",
+    "platform": "PC (Windows)",
+    "publisher": "Amazon Games",
+    "developer": "Smilegate RPG",
+    "releaseDate": "2022-02-11"
+  },
+  {
+    "id": 516,
+    "title": "PUBG: BATTLEGROUNDS",
+    "thumbnail": "/g/516/thumbnail.jpg",
+    "shortDescription": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "KRAFTON, Inc.",
+    "developer": "KRAFTON, Inc.",
+    "releaseDate": "2022-01-12"
+  },
+  {
+    "id": 508,
+    "title": "Enlisted",
+    "thumbnail": "/g/508/thumbnail.jpg",
+    "shortDescription": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "Gaijin Entertainment",
+    "developer": "Darkflow Software",
+    "releaseDate": "2021-04-08"
+  }
+]

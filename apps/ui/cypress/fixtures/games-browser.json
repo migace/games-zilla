@@ -1,0 +1,24 @@
+[
+  {
+    "id": 345,
+    "title": "Forge of Empires",
+    "thumbnail": "/g/345/thumbnail.jpg",
+    "shortDescription": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+    "genre": "Strategy",
+    "platform": "Web Browser",
+    "publisher": "InnoGames",
+    "developer": "InnoGames",
+    "releaseDate": "2012-04-17"
+  },
+  {
+    "id": 427,
+    "title": "Drakensang Online",
+    "thumbnail": "/g/427/thumbnail.jpg",
+    "shortDescription": "A free to play browser-based top-down hack-and-slash 3D MMORPG similar to games in the Diablo series.",
+    "genre": "MMORPG",
+    "platform": "Web Browser",
+    "publisher": "Bigpoint",
+    "developer": "Bigpoint",
+    "releaseDate": "2011-08-08"
+  }
+]

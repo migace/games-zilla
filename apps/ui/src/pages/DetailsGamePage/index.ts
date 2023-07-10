@@ -1,0 +1,1 @@
+export { DetailsGamePage } from './DetailsGamePage';

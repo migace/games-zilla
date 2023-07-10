@@ -1,0 +1,10 @@
+.wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: 600px;
+}
+
+.selectWrapper {    
+    width: 100%;   
+}
