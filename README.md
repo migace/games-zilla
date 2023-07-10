@@ -22,6 +22,10 @@ npm start
 npm run test
 ```
 
+### Assumptions
+Searching by one category uses endpoint games. The multi-category search uses an endpoint filter.
+Changing the filter removes the content from the search by the name field
+
 ### What can improve later? 
 1. add support for mobile
 2. add more tests
