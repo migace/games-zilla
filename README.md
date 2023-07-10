@@ -32,3 +32,4 @@ Changing the filter removes the content from the search by the name field
 3. improve API
 4. add better empty state
 5. create seperate common components package
+6. add handling errors from the API server
