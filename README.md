@@ -21,3 +21,10 @@ npm start
 ```
 npm run test
 ```
+
+### What can improve later? 
+1. add support for mobile
+2. add more tests
+3. improve API
+4. add better empty state
+5. create seperate common components package

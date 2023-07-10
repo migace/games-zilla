@@ -10,12 +10,16 @@ type LinkProps = {
   iconRight?: React.ReactNode;
 };
 
-export const Link = ({ children, href, iconLeft, iconRight, dataCy = "" }: LinkProps) => {
-  return (
-    <RouterLink to={href} className={classname.link} data-cy={dataCy}>
-      {iconLeft ? iconLeft : null}
-      {children}
-      {iconRight ? iconRight : null}
-    </RouterLink>
-  );
-};
+export const Link = ({
+  children,
+  href,
+  iconLeft,
+  iconRight,
+  dataCy = "",
+}: LinkProps) => (
+  <RouterLink to={href} className={classname.link} data-cy={dataCy}>
+    {iconLeft ? iconLeft : null}
+    {children}
+    {iconRight ? iconRight : null}
+  </RouterLink>
+);

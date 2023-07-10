@@ -8,3 +8,7 @@
 .selectWrapper {    
     width: 100%;   
 }
+
+.label {
+    white-space: nowrap;
+}

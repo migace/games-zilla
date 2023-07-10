@@ -9,8 +9,6 @@ export const DetailsGamePage = () => {
     typeof gameId === "string" ? +gameId : skipToken
   );
 
-  console.log(game);
-
   return (
     <div className="container">
       <GameDetails game={game} isLoading={isGameLoading} />
